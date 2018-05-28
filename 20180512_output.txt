@@ -1,0 +1,36 @@
+-------------------------------------------------------
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 1
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 2
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 3
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 4
+A termek1 kikerült a kosárból
+Vásárlás után a kosárban lévõ termékek száma: 3
+A termek1 kikerült a kosárból
+Vásárlás után a kosárban lévõ termékek száma: 2
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 1
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 2
+A termek1 a kosárba került
+Vásárlás után a kosárban lévõ termékek száma: 3
+-------------------------------------------------------
+A kosár tartalma: 
+termek1
+termek1
+A kosár tartalma: 
+termek1
+termek1
+termek1
+-------------------------------------------------------
+A termek1 kikerült a kosárból
+Vásárlás után a kosárban lévõ termékek száma: 1
+A termek1 kikerült a kosárból
+Vásárlás után a kosárban lévõ termékek száma: 2
+-------------------------------------------------------
+Felhasználó 1: Vásárló neve: Chuck Norris, Eletkor: 31, email: email-1, address: address-1, a kosárban van: 1 db termék
+Felhasználó 2: Vásárló neve: Charles Bronson, Eletkor: 45, email: email-2, address: address-2, a kosárban van: 2 db termék
+Felhasználó 3: Ugyintezo neve: Telly Savalas, Eletkor: 41, email: email-3, Tel: 123-123
